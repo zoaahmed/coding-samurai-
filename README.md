@@ -23,13 +23,14 @@ Project learning -:
 <br>
 
 6) Implementation of dax queries
-7) <br>
+   <br>
 
-8) sales forecasting
-9) <br>
+7) sales forecasting
+   <br>
 
-10) calculation of weekly sales by year and month.
-11) <br>
+8) calculation of weekly sales by year and month.
+ <br>
 
-12) Data cleaning and transformation in the power query editor.
-13) using card visuals to analyze average sales, fuel prices etc .
+9) Data cleaning and transformation in the power query editor.
+ <br>
+10) using card visuals to analyze average sales, fuel prices etc .
