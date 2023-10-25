@@ -22,15 +22,15 @@ Project learning -:
 5)Visualize the correlation between weekly sales and fuel prices simultaneously.
 <br>
 
-6) Implementation of dax queries
+6)Implementation of dax queries
    <br>
 
-7) sales forecasting
+7)Sales forecasting
    <br>
 
-8) calculation of weekly sales by year and month.
+8)calculation of weekly sales by year and month.
  <br>
 
-9) Data cleaning and transformation in the power query editor.
+9)Data cleaning and transformation in the power query editor.
  <br>
-10) using card visuals to analyze average sales, fuel prices etc .
+10)using card visuals to analyze average sales, fuel prices etc .
