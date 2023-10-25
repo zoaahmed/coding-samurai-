@@ -1,4 +1,4 @@
-# coding-samurai-
+# coding-samurai-intern
 project 1- Sales analysis dashboard
 
 
