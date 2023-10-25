@@ -1,14 +1,12 @@
 # coding-samurai-intern
 project 1- Sales analysis dashboard
-
-
 <br>
-
 Walmart sales analysis using Power BI-:
 <br>
 I have designed an interactive and insightful Walmart sales dashboard utilizing the robust features of Power BI. This comprehensive dashboard allows users to explore and analyze Walmart's sales data effortlessly, providing valuable business insights at a glance. Through intuitive visualizations and dynamic filters, the dashboard presents key metrics such as total sales, product performance and store-wise analysis.
-Coding Samurai
+<br>
 Project learning -:
+<br>
 1)Track the trend in weekly sales over time.
 2)Compared sales performance across different stores.
 3)Showed the contribution of each store to the total sales as a percentage.
